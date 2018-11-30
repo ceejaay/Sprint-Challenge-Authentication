@@ -9,6 +9,7 @@ module.exports = {
 
 // implementation details
 function authenticate(req, res, next) {
+  console.log('you made it to authenticate')
   const token = req.get('Authorization');
 
   if (token) {
