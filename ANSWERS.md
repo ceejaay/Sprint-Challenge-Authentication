@@ -1,3 +1,4 @@
+Chad Jemmett
 <!-- Answers to the Short Answer Essay Questions go here -->
 
 1. What is the purpose of using _sessions_?
